@@ -1,5 +1,7 @@
 # mobius-units
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19186394.svg)](https://doi.org/10.5281/zenodo.19186394)
+
 **Fundamental constants and unit conversions from the eigenvalue tower — one measurement derives them all.**
 
 ```python
