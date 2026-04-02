@@ -110,8 +110,12 @@ This is the tower-derived value, not the CODATA adjusted average. It sits 0.3 si
 
 ## See Also
 
-- [mobius-constant](https://github.com/JustNothingJay/mobius-constant) — Exact irrational constants
+- [mobius-constant](https://github.com/JustNothingJay/mobius-constant) — Exact irrational constants (`sqrt(2)**2 == 2`, by construction)
+- [mobius-number](https://github.com/JustNothingJay/mobius-number) — Complementary residue arithmetic (`0.1 + 0.2 = 0.3`, exactly)
+- [mobius-integer](https://github.com/JustNothingJay/mobius-integer) — Dual-strand integer: machine i64 + exact BigInt (Rust)
 - *One Measurement Derives Them All* — companion paper (Carpenter, 2026)
+
+Same pattern. Same anatomy. Same fix. Different domain.
 
 ## License
 
